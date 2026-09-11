@@ -16,26 +16,3 @@
 
 <img src="https://komarev.com/ghpvc/?username=DarkestPI&label=KERNEL+VISITORS&color=00ff41&style=for-the-badge" alt="visitor counter" />
 
-</div>
-
----
-
-<div align="center">
-
-```
- ___________________________________________________
-|                                                   |
-|  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  |
-|  █  SYSTEM PROGRAMMER  |  OS KERNEL ENGINEER    █  |
-|  █  RING 0 OPERATOR    |  BARE METAL ENJOYER    █  |
-|  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  |
-|___________________________________________________|
-     \   ^__^
-      \  (xx)\_______
-         (__)\       )\/\
-          U  ||----w |
-             ||     ||
-
-```
-
-</div>
